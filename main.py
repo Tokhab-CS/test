@@ -1,4 +1,4 @@
 from first.nums import plus
 
 if __name__ == '__main__':
-    print(plus(5, 5))
+    print(plus(5, 15))
